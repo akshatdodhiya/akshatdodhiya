@@ -1,9 +1,9 @@
 # Hello, World! 👋 I'm Akshat Dodhiya
 
 Welcome to my GitHub playground! I'm thrilled to have you here. I'm a passionate software developer with a profound enthusiasm for crafting clean code and unraveling complex challenges. Technology, to me, is like a canvas of endless possibilities, and I'm here to paint a masterpiece.
-<center>
+<p align=center>
 <img alt="Coder GIF" height=250 width=350 src="Assets/developer-chilling.gif" />
-</center>
+</p>
 
 ## About Me
 
@@ -32,33 +32,25 @@ I'm a strong believer in the power of connections and collaborations. Whether yo
 Let's learn, grow, and innovate together in this ever-evolving tech landscape!
 
 ## 📫 How to Get in Touch
-<center>
-<img alt="LinkedIn GIF" height=40 width=40 src="Assets/linkedin.gif" /> 
-<br>
+
+<img alt="LinkedIn GIF" height=40 width=40 src="Assets/linkedin.gif" />  
 
 **[@akshatdodhiya](https://www.linkedin.com/in/akshatdodhiya)**
-<br>
 
 <img alt="Twitter GIF" height=40 width=40 src="Assets/twitter.gif" />
-<br>
-
+  
 **[@akshatdodhiya](https://twitter.com/akshatdodhiya)**
-<br>
+
 
 <img alt="Youtube GIF" height=40 width=40 src="Assets/youtube.gif" />
-<br>
 
 **[@akshatdodhiya](https://www.youtube.com/@akshatdodhiya)**
 
-</center>
 
 ## ➕ More about my work: 
-<center>
-<img alt="Logo GIF" height=100 width=100 src="Assets/akshat.png" />
-<br>
+<img alt="Logo GIF" height=120 width=120 src="Assets/akshat.png" />
 
 **[www.akshatdodhiya.me](https://akshatdodhiya.me)**
 
-</center>
 
 Thanks for dropping by, and let's embark on an exciting coding journey together! 🚀
