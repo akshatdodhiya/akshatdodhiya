@@ -7,7 +7,7 @@ Welcome to my GitHub playground! I'm thrilled to have you here. I'm a passionate
 
 ## About Me
 
-My coding journey embarked at a young age and has evolved into a fervent love affair with programming. I'm on a ceaseless quest to broaden my horizons and contribute meaningfully to the world of technology.
+My coding journey began at a young age and has evolved into a fervent love affair with programming. I'm on a ceaseless quest to broaden my horizons and contribute meaningfully to the world of technology.
 
 When I'm not engrossed in coding, you can find me experimenting with different programming languages, or collaborating on exciting open-source ventures. I truly believe that technology flourishes when we come together to learn, share, and innovate.
 
@@ -33,16 +33,15 @@ Let's learn, grow, and innovate together in this ever-evolving tech landscape!
 
 ## 📫 How to Get in Touch
 
-<img alt="LinkedIn GIF" height=40 width=40 src="Assets/linkedin.gif" />  
+[<img alt="LinkedIn GIF" height=40 width=40 src="Assets/linkedin.gif" />](https://www.linkedin.com/in/akshatdodhiya)
 
 **[@akshatdodhiya](https://www.linkedin.com/in/akshatdodhiya)**
 
-<img alt="Twitter GIF" height=40 width=40 src="Assets/twitter.gif" />
+[<img alt="Twitter GIF" height=40 width=40 src="Assets/twitter.gif" />](https://twitter.com/akshatdodhiya)
   
 **[@akshatdodhiya](https://twitter.com/akshatdodhiya)**
 
-
-<img alt="Youtube GIF" height=40 width=40 src="Assets/youtube.gif" />
+[<img alt="Youtube GIF" height=40 width=40 src="Assets/youtube.gif" />](https://www.youtube.com/@akshatdodhiya)
 
 **[@akshatdodhiya](https://www.youtube.com/@akshatdodhiya)**
 
@@ -52,5 +51,14 @@ Let's learn, grow, and innovate together in this ever-evolving tech landscape!
 
 **[www.akshatdodhiya.me](https://akshatdodhiya.me)**
 
-
 Thanks for dropping by, and let's embark on an exciting coding journey together! 🚀
+
+<!-- <p align="center"> -->
+[<img alt="Buy me a coffee!" height=250 width=250 src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" />](https://www.buymeacoffee.com/akshatdodhiya)
+<!-- </p> -->
+
+<!-- <a href="https://www.buymeacoffee.com/akshatdodhiya">
+  <p align="center">
+    <img width="250" height="2450" src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif">
+  </p>
+</a> -->
