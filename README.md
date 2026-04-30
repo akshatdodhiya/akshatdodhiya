@@ -1,55 +1,49 @@
-# Hello, World! 👋 I'm Akshat Dodhiya
-
-## About Me
-
-➡️ Computer Engineering Technology Student at Seneca Polytechnic.
-
-## 🔭 What I'm Currently Diving Into
-
-[![Web Development](https://img.shields.io/badge/-Web_Development-000000?style=flat&logo=html5&logoColor=white)](https://www.github.com/akshatdodhiya)  
-[![Open Source](https://img.shields.io/badge/-Open_Source_Contribution-000000?style=flat&logo=github&logoColor=white)](https://github.com/akshatdodhiya)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38CD10&center=true&vCenter=true&width=800&lines=Hi,+I'm+Akshat+Dodhiya;Computer+Engineering+Tech+@+Seneca;Backend+Developer+%7C+Embedded+Systems;Building+Softwares+%26+Cloud+Infrastructure" alt="Typing SVG" />
+</div>
 
 
-## 🌱 My Tech Garden
+<div align="center">
+  <p>Bridging low-level hardware design with high-level system automation and data engineering.</p>
+</div>
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/akshatdodhiya)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/akshatdodhiya/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Java](https://img.shields.io/badge/-Java-F80000?style=flat&logo=oracle&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![C Language](https://img.shields.io/badge/-C_Language-A8B9CC?style=flat&logo=c&logoColor=black)](https://www.linkedin.com/in/akshatdodhiya/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Qt](https://img.shields.io/badge/-PyQt5-41CD52?style=flat&logo=qt&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linkedin.com/in/akshatdodhiya/)
-[![macOS](https://img.shields.io/badge/-macOS-999999?style=flat&logo=apple&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Nano](https://img.shields.io/badge/-Nano-2AA889?style=flat&logo=nano&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)](https://www.linkedin.com/in/akshatdodhiya/)
 <br/>
-<p align="center">
-  <a href="https://github.com/akshatdodhiya?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=akshatdodhiya&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@AkshatDodhiya's GitHub-readme-stats">
+
+### </> The Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,dotnet,mysql,html,js,git,ubuntu,debian,docker,github,visualstudio,vscode,azure,aws,gcp,cloudflare,raspberrypi,linux,replit,bash,flask,&theme=dark&perline=5" />
   </a>
-  <a href="https://github.com/akshatdodhiya?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=akshatdodhiya&theme=shadow-blue&hide_current_streak=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AkshatDodhiya's GitHub-readme-streak-stats">
+</div>
+
+### ⚙️ What I'm Engineering
+
+*   **🛠️ Recent Project:** [**Morph-Deck**](https://akshat.codes/morph-deck.html), an ESP32-S3 presence-aware IoT macro console featuring mmWave radar and custom 3D-printed enclosures.
+*   **🌱 Currently exploring:** Scaling my [**self-hosted home server**](https://akshat.codes) environment (Ubuntu, Docker, CasaOS) and experimenting with RAG applications.
+*   **💼 Professional focus:** Backend architecture, cloud infrastructure (Azure), and building automated pipelines.
+*   **⚡ Off-screen:** If I'm not writing code, you will probably find me on the badminton court.
+
+<br/>
+
+### 📈 Real-Time GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats-nine-ebon-98.vercel.app/api?username=akshatdodhiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&hide_rank=true&include_all_commits=true" width="90%" />
+
+  <img src="https://github-readme-stats-nine-ebon-98.vercel.app/api/top-langs/?username=akshatdodhiya&show_icons=true&theme=tokyonight&stats_format=bytes&hide_border=true&layout=compact" width="90%" />
+</div>
+
+<br/>
+
+### 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:contact@akshat.codes">
+    <img src="https://img.shields.io/badge/contact@akshat.codes-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/akshatdodhiya/">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACt0lEQVR4nO2aTWgTQRiGd7cVwYOiUFtBT7ZV6M0qDRQ8elBBrwpehJ5EBenBg+DFZidRIqWtvxeLHsQqWn8oWoz1KqHMbJa2JtWapElqtK3RlKir+WQnNJpklmyKZndwX3ghkG8277O7s7PkG0Fg6eyLesFDtgmy0m4Lu3ErzVRR5wKbREQuSzJZlBABW1kmi6KMBwSv2sQO71F2SgjPWR4UVQLBSXpVSs88F+FRwQmhR2ks5BcRuWSDUFCNRYT78+mvBlbZ8p5HlYwX8hPbjVutD0NWZMGtNusAHfwC4A5BQMRlptg1GIbjz2bh0HAENlxU7QGAiMsUgO9VCv5U7PN32H5tig8A12AYWHoQSvMBcGI0zgSYy2h8ABx+GGECBFNZPgDW+YL0ni+VPqG5AJAQoRP28XQa3i9poKSyNHydxeGlagDsauG/AOi8GYbTY4kyd/sTRXUNvSqzTnfzlclC3WqvArtvTUPXSAxOjsbhyKMo7LoRgnrPPwI48zLJfApltVxRXdv1KTDSvqG3tObY01k6j1hKZjQ49TxOAW0J0Bf4AGbkf/cF1pt8VakZwHAoDdXo/utPpp5yNQNYiQ7em+EbYCyasRdAeOEb7B+agbW+IKy5oNDPkx+/Gtb/yOUqzoWaAaSWNNgyMFF27IZeFSLp8teUZe25/cYeAPoxjI7fNRIzHHf0SdQeAAfuGk/Izf0ThuNKF0vLAPbeyS9kLNchAtrPXNVXzpKV2MhZzQEgDkCbA1AuB0ByAPJyAJADwDFA51/+V4Llbj97nP7blQG4b3B4xlu4BfAGt/Lb5JPxfKF7r3fALQ+EqrMo477fjW6v2qR3wK0OJZl3QjiPNxZ362WlXf+Ci/AesoO9X6JHadQ74HoT2QZBocgynqe3TdmZZ4lutxlvsXybzbL1LAbbbX4BE3tItcDrXC4AAAAASUVORK5CYII=" alt="linkedin">
 
-## 📫 How to Get in Touch
-
-[![Support Me](https://img.shields.io/badge/Support_Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/akshatdodhiya)
-[![Linkedin: Akshat](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshatdodhiya/)](https://www.linkedin.com/in/akshatdodhiya/)
-[![Twitter: Akshat](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/akshatdodhiya)](https://twitter.com/akshatdodhiya)
-[![Gmail: Akshat](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:dodhiyaakshat@gmail.com)](mailto:dodhiyaakshat@gmail.com)
-
-<a href="https://github.com/akshatdodhiya">
-    <img src="Assets/contributions.svg" />
   </a>
-
-### Thanks for dropping by, and let's embark on an exciting coding journey together! 🚀
+</div>
