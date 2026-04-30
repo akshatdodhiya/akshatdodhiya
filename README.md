@@ -12,7 +12,7 @@
 ### </> The Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/akshatdodhiya">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,dotnet,mysql,html,js,git,ubuntu,debian,docker,github,visualstudio,vscode,azure,aws,gcp,cloudflare,raspberrypi,linux,replit,bash,flask,&theme=dark&perline=5" />
   </a>
 </div>
