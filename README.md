@@ -29,9 +29,9 @@
 ### 📈 Real-Time GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-nine-ebon-98.vercel.app/api?username=akshatdodhiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&hide_rank=true&include_all_commits=true" width="90%" />
+  <img src="https://github-readme-stats-nine-ebon-98.vercel.app/api?username=akshatdodhiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&hide_rank=true&include_all_commits=true" width="49%" />
 
-  <img src="https://github-readme-stats-nine-ebon-98.vercel.app/api/top-langs/?username=akshatdodhiya&show_icons=true&theme=tokyonight&stats_format=bytes&hide_border=true&layout=compact" width="90%" />
+  <img src="https://github-readme-stats-nine-ebon-98.vercel.app/api/top-langs/?username=akshatdodhiya&show_icons=true&theme=tokyonight&stats_format=bytes&hide_border=true&layout=compact" width="45%" />
 </div>
 
 <br/>
